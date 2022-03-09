@@ -1,5 +1,7 @@
 code report
+
 1_ magic number : 
+
 first, i read number from eof txt file
 I wrote a Python code to test  the user entered code from file if the code include these cases its a magic number:
 
