@@ -1,0 +1,28 @@
+x=5/0
+if(status = -1)
+if(int == 1)
+if(x < 5)
+if(x < 5)
+else if(status == "Pass")
+else if(status == "Unknown")
+
+def Check(int status, string name, char startChar, char endChar)
+
+function f() {
+  var x = 3;
+  x += 4;
+  return x;   
+  x -= 3;     
+}
+
+
+
+
+def dotheatru(status,data,Chartest){
+status:int =5
+data:string=6
+Chartest:chr="test"
+}
+
+
+
