@@ -15,4 +15,5 @@ for line in lines:
         print("is a magic number because include an 'operation'")
 
     else:
+
         print(" its not a magic number")
