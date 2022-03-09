@@ -18,7 +18,7 @@ def DivvideByZero(fileName):
                     if ( int(divisor[0])==0):
                         print("line :")
                         print(line)
-                        print ("// Devide by zero error")
+                        print ("// Divide by zero error")
                         print '\n'
                         print "******************************************************"
  
