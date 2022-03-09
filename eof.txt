@@ -2,4 +2,3 @@ if(status = -1)
 if(int == 1)
 if(x < 5)
 else if(status == "Pass")
-int x = 5
